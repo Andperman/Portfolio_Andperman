@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">UA UNIVERSITY</h3>
             <h4 className="vertical-timeline-element-subtitle">Alicante,Spain</h4>
             <p>
-            Education Degree 
+            Education Degree - Physical Education
             </p>
           </VerticalTimelineElement> bh 
         </VerticalTimeline>
