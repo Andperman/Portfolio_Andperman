@@ -1,5 +1,5 @@
 .dark-mode .about-section {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(20, 19, 19, 0.2);
 }
 
 .about-section {
@@ -52,8 +52,10 @@
 .about-section .image-wrapper {
     z-index: 2;
     img {
-        width: 150px;
-        border-radius: 50%;
+        width: 200px;
+        height: 200px; /* Mantén el alto igual al ancho para que sea cuadrada */
+        border-radius: 50%; /* Círculo perfecto */
+        object-fit: cover;
     }
 }
 
