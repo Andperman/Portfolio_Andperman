@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Andperman/static/css/main.2f0e6e01.css",
+    "main.js": "/Portfolio_Andperman/static/js/main.63db2bfa.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Portfolio_Andperman/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock09.png": "/Portfolio_Andperman/static/media/mock09.2c5d5a8a45fac9243c95.png",
+    "static/media/bg-light.png": "/Portfolio_Andperman/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock08.png": "/Portfolio_Andperman/static/media/mock08.0bfe5d56cb67efe4ee61.png",
+    "static/media/mock10.png": "/Portfolio_Andperman/static/media/mock10.d7c78b4a287922180ae5.png",
+    "static/media/bg-dark.png": "/Portfolio_Andperman/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock07.png": "/Portfolio_Andperman/static/media/mock07.e0d2f1425411118438cc.png",
+    "static/media/andrea-Photoroom 2.jpg": "/Portfolio_Andperman/static/media/andrea-Photoroom 2.ae3e010df4486bcf555b.jpg",
+    "index.html": "/Portfolio_Andperman/index.html",
+    "main.2f0e6e01.css.map": "/Portfolio_Andperman/static/css/main.2f0e6e01.css.map",
+    "main.63db2bfa.js.map": "/Portfolio_Andperman/static/js/main.63db2bfa.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Portfolio_Andperman/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f0e6e01.css",
+    "static/js/main.63db2bfa.js"
+  ]
+}
