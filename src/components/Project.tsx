@@ -12,7 +12,7 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://github.com/Andperman/00_proyecto_final_frontend.git" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Andperman/00_proyecto_final_backend.git" target="_blank" rel="noreferrer"><h2>ChatBot</h2></a>
+                <a href="https://zero0-proyecto-final-frontend.onrender.com/" target="_blank" rel="noreferrer"><h2>ChatBot</h2></a>
                 <p>ChatBot project for the FELGTBIQ+ to help people regarding HIV.</p>
             </div>
             <div className="project">
